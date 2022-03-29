@@ -12,7 +12,7 @@ namespace P11Interfejsy
         public double WykonajObliczenie(int a, int b, IOperacja operacja)
         {
             double wynik = operacja.WykonajOperacje(a, b);
-            return wynik;
+            return wynik; 
         }
 
     }
