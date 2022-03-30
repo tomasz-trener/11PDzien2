@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14Dziedziczenie", "P14Dzie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15ObslugaBledow", "P15ObslugaBledow\P15ObslugaBledow.csproj", "{6CE94DD5-3B18-4F8A-9077-A013DE8ADCF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16AccessModifiers", "P16AccessModifiers\P16AccessModifiers.csproj", "{111FB2EE-FDA8-4E5B-86BF-154A1857C4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17InnyProjekt", "P17InnyProjekt\P17InnyProjekt.csproj", "{0E8F5AC5-9EE9-493F-B34C-DD7517FDA7BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{6CE94DD5-3B18-4F8A-9077-A013DE8ADCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE94DD5-3B18-4F8A-9077-A013DE8ADCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE94DD5-3B18-4F8A-9077-A013DE8ADCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111FB2EE-FDA8-4E5B-86BF-154A1857C4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111FB2EE-FDA8-4E5B-86BF-154A1857C4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111FB2EE-FDA8-4E5B-86BF-154A1857C4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111FB2EE-FDA8-4E5B-86BF-154A1857C4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8F5AC5-9EE9-493F-B34C-DD7517FDA7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8F5AC5-9EE9-493F-B34C-DD7517FDA7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8F5AC5-9EE9-493F-B34C-DD7517FDA7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8F5AC5-9EE9-493F-B34C-DD7517FDA7BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -34,7 +34,6 @@ namespace P05WlasneKlasy
             tab[0] = "a";
 
             return a + b;
-
         }
 
         public int Przemnoz(int a,int b)
